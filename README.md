@@ -12,7 +12,7 @@
     </label>
 </h1>
 <h2 align="left"><ins> Descrição do projeto </ins></h2>
-<p>Projeto em desevolvimento para a disciplina de Desenvolvimento Mobile do curso de Sistemas de Informação. O intuito do repositório é desenvolver e publicar nosso repertório durante o semestre </p>
+<p>Projeto em desevolvimento para a disciplina de Desenvolvimento Mobile do curso de Sistemas de Informação. O intuito do repositório é desenvolver e publicar nosso repertório durante o semestre. </p>
 
 <h2><ins> Tecnologias utilizadas </ins></h2>
 <ul>
